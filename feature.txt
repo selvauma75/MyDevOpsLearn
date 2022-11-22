@@ -1,1 +1,1 @@
-This is sample text for testforconflict
+This is a sample for developer
